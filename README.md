@@ -12,7 +12,7 @@ Cada padrão tem:
 - solução e quando aplicar,
 - diagrama UML (PlantUML),
 - implementação em JavaScript (Node.js),
-- exemplo executável e README específico.
+- exemplo executável e README.
 
 ## Referência (direitos autorais)
 Conteúdo teórico baseados no catálogo do Refactoring.Guru:  
