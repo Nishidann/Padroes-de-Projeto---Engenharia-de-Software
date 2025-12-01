@@ -1,7 +1,7 @@
 # Pattern: Singleton (Criacional)
 
 ## Problema
-Em alguns casos precisamos garantir que exista apenas uma única instância de uma classe e fornecer um ponto de acesso global a essa instância.
+Em alguns casos é preciso garantir que exista apenas uma única instância de uma classe e fornecer um ponto de acesso global a essa instância.
 
 ## Solução
 Controlar a criação da instância: a classe guarda a instância criada e, em novas chamadas, retorna a instância existente em vez de criar uma nova.
