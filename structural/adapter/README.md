@@ -1,7 +1,7 @@
 # Pattern: Adapter (Estrutural)
 
 ## Problema
-Sua aplicação depende de uma interface antiga, mas você precisa usar uma biblioteca/serviço com interface diferente. Reescrever toda a aplicação é custoso, então adaptamos a interface externa para a esperada.
+Sua aplicação depende de uma interface antiga, mas você precisa usar uma biblioteca/serviço com interface diferente. Como reescrever toda a aplicação é custoso, então se adapta a interface externa para a esperada.
 
 ## Solução
 Criar um Adapter que implementa a interface esperada pela aplicação e internamente faz a tradução para a API/objeto novo.
